@@ -1,7 +1,14 @@
 
-# eat-out-to-help-out-establishments
+#Eat Out to Help Out Scheme participating establishments
+Participating establishments can use the Eat Out to Help Out Scheme to offer a discount to diners and encourage them to eat at their venues.
+The data was collected when establishments registered for the scheme. It includes:
+- Establishment name
+- Address
+- Postcode
 
-This is a placeholder README.md for a new repository
+It can be found here:
+
+>[data/participating-establishments/restaurants.csv](data/participating-establishments/restaurants.csv)
 
 ### License
 
