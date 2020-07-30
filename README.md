@@ -6,7 +6,7 @@ The data was collected when establishments registered for the scheme. It include
 - Address
 - Postcode
 
-It can be found here:
+Data for establishments and franchises with less than 25 locations can be found here:
 
 >[data/participating-establishments/restaurants.csv](data/participating-establishments/restaurants.csv)
 
